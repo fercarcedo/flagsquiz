@@ -1,0 +1,524 @@
+{
+  "questions": [
+    {
+      "name": "Angola",
+      "flag": "angola.png",
+      "options": [
+        "Angola",
+        "Argelia",
+        "Benín",
+        "Botsuana"
+      ]
+    },
+    {
+      "name": "Argelia",
+      "flag": "argelia.png",
+      "options": [
+        "Burkina Faso",
+        "Mali",
+        "Sierra Leona",
+        "Argelia"
+      ]
+    },
+    {
+      "name": "Benín",
+      "flag": "benin.png",
+      "options": [
+        "Mauricio",
+        "Benín",
+        "Togo",
+        "Túnez"
+      ]
+    },
+    {
+      "name": "Botsuana",
+      "flag": "botsuana.png",
+      "options": [
+        "Guinea",
+        "Gambia",
+        "Botsuana",
+        "Ruanda"
+      ]
+    },
+    {
+      "name": "Burkina Faso",
+      "flag": "burkinafaso.png",
+      "options": [
+        "Burkina Faso",
+        "Mozambique",
+        "Suazilandia",
+        "Tanzania"
+      ]
+    },
+    {
+      "name": "Burundi",
+      "flag": "burundi.png",
+      "options": [
+        "Guinea ecuatorial",
+        "Kenia",
+        "Liberia",
+        "Burundi"
+      ]
+    },
+    {
+      "name": "Cabo Verde",
+      "flag": "caboverde.png",
+      "options": [
+        "Senegal",
+        "Cabo Verde",
+        "Eritrea",
+        "Malaui"
+      ]
+    },
+    {
+      "name": "Camerún",
+      "flag": "camerun.png",
+      "options": [
+        "Camerún",
+        "Somalia",
+        "Somalilandia",
+        "Yibuti"
+      ]
+    },
+    {
+      "name": "Chad",
+      "flag": "chad.png",
+      "options": [
+        "Camerún",
+        "Chad",
+        "Yibuti",
+        "Somalia"
+      ]
+    },
+    {
+      "name": "Comoras",
+      "flag": "comoras.png",
+      "options": [
+        "Comoras",
+        "Mauricio",
+        "Somalia",
+        "Túnez"
+      ]
+    },
+    {
+      "name": "Costa de Marfil",
+      "flag": "costademarfil.png",
+      "options": [
+        "Sierra Leona",
+        "Costa de Marfil",
+        "Uganda",
+        "Zimbabue"
+      ]
+    },
+    {
+      "name": "Egipto",
+      "flag": "egipto.png",
+      "options": [
+        "Egipto",
+        "República Democrática del Congo",
+        "República del Congo",
+        "Uganda"
+      ]
+    },
+    {
+      "name": "Eritrea",
+      "flag": "eritrea.png",
+      "options": [
+        "Sierra Leona",
+        "Eritrea",
+        "Zambia",
+        "Kenia"
+      ]
+    },
+    {
+      "name": "Etiopía",
+      "flag": "etiopia.png",
+      "options": [
+        "Namibia",
+        "Guinea",
+        "Costa de Marfil",
+        "Etiopía"
+      ]
+    },
+    {
+      "name": "Gabón",
+      "flag": "gabon.png",
+      "options": [
+        "Gabón",
+        "Seychelles",
+        "Ghana",
+        "Comoras"
+      ]
+    },
+    {
+      "name": "Gambia",
+      "flag": "gambia.png",
+      "options": [
+        "Chad",
+        "Argelia",
+        "Botsuana",
+        "Gambia"
+      ]
+    },
+    {
+      "name": "Ghana",
+      "flag": "ghana.png",
+      "options": [
+        "Ghana",
+        "Senegal",
+        "Togo",
+        "Zambia"
+      ]
+    },
+    {
+      "name": "Guinea",
+      "flag": "guinea.png",
+      "options": [
+        "Mali",
+        "Guinea-Bisau",
+        "Guinea",
+        "Uganda"
+      ]
+    },
+    {
+      "name": "Guinea-Bisau",
+      "flag": "guineabisau.png",
+      "options": [
+        "Guinea-Bisau",
+        "Guinea",
+        "Mali",
+        "Uganda"
+      ]
+    },
+    {
+      "name": "Guinea Ecuatorial",
+      "flag": "guineaecuatorial.png",
+      "options": [
+        "Guinea-Bisau",
+        "Guinea",
+        "Guinea Ecuatorial",
+        "Mali"
+      ]
+    },
+    {
+      "name": "Kenia",
+      "flag": "kenia.png",
+      "options": [
+        "Kenia",
+        "Lesoto",
+        "Somalia",
+        "Túnez"
+      ]
+    },
+    {
+      "name": "Lesoto",
+      "flag": "lesoto.png",
+      "options": [
+        "Níger",
+        "Lesoto",
+        "Egipto",
+        "Burundi"
+      ]
+    },
+    {
+      "name": "Liberia",
+      "flag": "liberia.png",
+      "options": [
+        "Somalia",
+        "Liberia",
+        "Uganda",
+        "Zimbabue"
+      ]
+    },
+    {
+      "name": "Malaui",
+      "flag": "malaui.png",
+      "options": [
+        "Mauricio",
+        "Mauritania",
+        "Malaui",
+        "Sierra Leona"
+      ]
+    },
+    {
+      "name": "Mali",
+      "flag": "mali.png",
+      "options": [
+        "Mali",
+        "Mauricio",
+        "Sierra Leona",
+        "Uganda"
+      ]
+    },
+    {
+      "name": "Mauricio",
+      "flag": "mauricio.png",
+      "options": [
+        "Mauricio",
+        "Sudán",
+        "Sudán del Sur",
+        "Tanzania"
+      ]
+    },
+    {
+      "name": "Mauritania",
+      "flag": "mauritania.png",
+      "options": [
+        "Mauritania",
+        "Somalia",
+        "Somalilandia",
+        "Túnez"
+      ]
+    },
+    {
+      "name": "Mozambique",
+      "flag": "mozambique.png",
+      "options": [
+        "Namibia",
+        "Gabón",
+        "Mozambique",
+        "Etiopía"
+      ]
+    },
+    {
+      "name": "Namibia",
+      "flag": "namibia.png",
+      "options": [
+        "Somalia",
+        "Guinea",
+        "Costa de Marfil",
+        "Namibia"
+      ]
+    },
+    {
+      "name": "Níger",
+      "flag": "niger.png",
+      "options": [
+        "Níger",
+        "Sierra Leona",
+        "Tanzania",
+        "Togo"
+      ]
+    },
+    {
+      "name": "Nigeria",
+      "flag": "nigeria.png",
+      "options": [
+        "Malaui",
+        "Nigeria",
+        "Níger",
+        "Uganda"
+      ]
+    },
+    {
+      "name": "República Centroafricana",
+      "flag": "republicacentroafricana.png",
+      "options": [
+        "República Centroafricana",
+        "Uganda",
+        "Túnez",
+        "Egipto"
+      ]
+    },
+    {
+      "name": "República Del Congo",
+      "flag": "republicadelcongo.png",
+      "options": [
+        "República del Congo",
+        "República Democrática del Congo",
+        "República Centroafricana",
+        "Somalia"
+      ]
+    },
+    {
+      "name": "República Democrática del Congo",
+      "flag": "republicademocraticadelcongo.png",
+      "options": [
+        "República Democrática del Congo",
+        "República del Congo",
+        "República Centroafricana",
+        "Somalia"
+      ]
+    },
+    {
+      "name": "Ruanda",
+      "flag": "ruanda.png",
+      "options": [
+        "Ruanda",
+        "Seychelles",
+        "Togo",
+        "Túnez"
+      ]
+    },
+    {
+      "name": "Sáhara Occidental",
+      "flag": "saharaoccidental.png",
+      "options": [
+        "Sáhara Occidental",
+        "Santo Tomé y Príncipe",
+        "Tanzania",
+        "Togo"
+      ]
+    },
+    {
+      "name": "Santo Tomé y Príncipe",
+      "flag": "santotomeyprincipe.png",
+      "options": [
+        "Togo",
+        "Santo Tomé y Príncipe",
+        "Sudán",
+        "Sudán del Sur"
+      ]
+    },
+    {
+      "name": "Senegal",
+      "flag": "senegal.png",
+      "options": [
+        "Senegal",
+        "Togo",
+        "Tanzania",
+        "Somalia"
+      ]
+    },
+    {
+      "name": "Seychelles",
+      "flag": "seychelles.png",
+      "options": [
+        "Somalia",
+        "Mauricio",
+        "Seychelles",
+        "Mauritania"
+      ]
+    },
+    {
+      "name": "Sierra Leona",
+      "flag": "sierraleona.png",
+      "options": [
+        "Sierra Leona",
+        "Ghana",
+        "Costa de Marfil",
+        "Egipto"
+      ]
+    },
+    {
+      "name": "Somalia",
+      "flag": "somalia.png",
+      "options": [
+        "Eritrea",
+        "Somalia",
+        "Liberia",
+        "Gabón"
+      ]
+    },
+    {
+      "name": "Somalilandia",
+      "flag": "somalilandia.png",
+      "options": [
+        "Somalilandia",
+        "Somalia",
+        "Níger",
+        "Ghana"
+      ]
+    },
+    {
+      "name": "Suazilandia",
+      "flag": "suazilandia.png",
+      "options": [
+        "Malaui",
+        "Nigeria",
+        "Níger",
+        "Suazilandia"
+      ]
+    },
+    {
+      "name": "Sudán",
+      "flag": "sudan.png",
+      "options": [
+        "Sudán",
+        "Sudán del Sur",
+        "Tanzania",
+        "Togo"
+      ]
+    },
+    {
+      "name": "Sudán del Sur",
+      "flag": "sudandelsur.png",
+      "options": [
+        "Sudán",
+        "Sudán del Sur",
+        "Tanzania",
+        "Togo"
+      ]
+    },
+    {
+      "name": "Tanzania",
+      "flag": "tanzania.png",
+      "options": [
+        "Togo",
+        "Namibia",
+        "Mozambique",
+        "Tanzania"
+      ]
+    },
+    {
+      "name": "Togo",
+      "flag": "togo.png",
+      "options": [
+        "Mauritania",
+        "Egipto",
+        "Costa de Marfil",
+        "Togo"
+      ]
+    },
+    {
+      "name": "Túnez",
+      "flag": "tunez.png",
+      "options": [
+        "Sierra Leona",
+        "Túnez",
+        "Somalia",
+        "Ruanda"
+      ]
+    },
+    {
+      "name": "Uganda",
+      "flag": "uganda.png",
+      "options": [
+        "Zambia",
+        "Zimbabue",
+        "Uganda",
+        "Yibuti"
+      ]
+    },
+    {
+      "name": "Yibuti",
+      "flag": "yibuti.png",
+      "options": [
+        "Yibuti",
+        "Lesoto",
+        "Liberia",
+        "Mali"
+      ]
+    },
+    {
+      "name": "Zambia",
+      "flag": "zambia.png",
+      "options": [
+        "Camerún",
+        "Congo",
+        "Eritrea",
+        "Zambia"
+      ]
+    },
+    {
+      "name": "Zimbabue",
+      "flag": "zimbabue.png",
+      "options": [
+        "Zimbabue",
+        "Seychelles",
+        "Guinea",
+        "Egipto"
+      ]
+    }
+  ]
+}

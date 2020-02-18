@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph.xml"
+    app:startDestination="@id/introFragment">
+
+    <fragment
+        android:id="@+id/introFragment"
+        android:name="uo246008.quizflags.fragment.IntroFragment"
+        tools:layout="@layout/fragment_intro"
+        android:label="IntroFragment" >
+        <action
+            android:id="@+id/action_introFragment_to_quiz_nav_graph"
+            app:destination="@id/quiz_nav_graph" />
+    </fragment>
+
+    <navigation android:id="@+id/quiz_nav_graph"
+        app:startDestination="@id/idFragment">
+        <fragment android:id="@+id/scoreFragment"
+            android:name="uo246008.quizflags.fragment.ScoreFragment"
+            android:label="ScoreFragment"
+            tools:layout="@layout/fragment_score" />
+        <fragment
+            android:id="@+id/quizFragment"
+            android:name="uo246008.quizflags.fragment.QuizFragment"
+            android:label="QuizFragment"
+            tools:layout="@layout/fragment_quiz">
+            <action android:id="@+id/action_quizFragment_to_scoreFragment"
+                app:destination="@id/scoreFragment" />
+        </fragment>
+        <fragment
+            android:id="@+id/idFragment"
+            android:name="uo246008.quizflags.fragment.IdFragment"
+            android:label="IdFragment"
+            tools:layout="@layout/fragment_id" >
+            <action
+                android:id="@+id/action_idFragment_to_quizFragment"
+                app:destination="@id/quizFragment" />
+        </fragment>
+    </navigation>
+</navigation>

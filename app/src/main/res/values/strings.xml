@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Flags Quiz</string>
+    <string name="instructions">Responde en cuanto reconozcas la bandera. Cuanto antes la reconozcas, más puntos conseguirás</string>
+    <string name="enter_id">Introduce tu ID</string>
+    <string name="id">ID</string>
+    <string name="score">Puntuación</string>
+    <string name="finish">Finalizar</string>
+    <string name="correct_answers">Correctas: %1$d</string>
+    <string name="incorrect_answers">Incorrectas: %1$d</string>
+    <string name="time">Tiempo: %1$s</string>
+</resources>
